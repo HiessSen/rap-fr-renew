@@ -1,0 +1,54 @@
+{
+  "artistes": [
+    {
+      "id": 1,
+      "blaze": "Vald",
+      "nom": "Valentin",
+      "prenom": "Ledu",
+      "surnoms": ["Le V", "Sullyvan", "Deval"],
+      "dateDeNaissance": "2021-07-22",
+      "projets": {
+        "NQNT": {
+          "dateSortie": "2021-01-01",
+          "pistes": [
+            {"titre": "Piste 1", "duree": "3:45"},
+            {"titre": "Piste 2", "duree": "4:12"},
+            {"titre": "Piste 3", "duree": "2:58"}
+          ]
+        }
+      },
+      "origine": "France",
+      "departement": "93",
+      "ville": "Aulnay-Sous-Bois"
+    },
+    {
+      "id": 2,
+      "blaze": "Orelsan",
+      "nom": "Aurelien",
+      "prenom": "Cotentin",
+      "surnoms": ["Orel", "Aurélien", "Blackor"],
+      "dateDeNaissance": "1982-08-01",
+      "projets": {
+        "Perdu d'avance": {
+          "dateSortie": "2009-02-16",
+          "pistes": [
+            {"titre": "Intro", "duree": "1:18"},
+            {"titre": "Différent", "duree": "4:24"},
+            {"titre": "No-life", "duree": "4:21"}
+          ]
+        },
+        "Le Chant des Sirènes": {
+          "dateSortie": "2011-09-26",
+          "pistes": [
+            {"titre": "RaelSan", "duree": "4:29"},
+            {"titre": "Double vie", "duree": "3:30"},
+            {"titre": "La terre est ronde", "duree": "3:28"}
+          ]
+        }
+      },
+      "origine": "France",
+      "departement": "61",
+      "ville": "Alençon"
+    }
+  ]
+}
